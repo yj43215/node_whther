@@ -3,8 +3,6 @@ const path= require('path')
 const { request } = require('http')
 const { response } = require('express')
 const app=express()
-console.log("Dir :"+__dirname)
-
 
 let pathdir=path.join(__dirname,"/first")
 
