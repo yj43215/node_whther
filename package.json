@@ -2,9 +2,9 @@
   "name": "wether-app",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "task2.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node task2.js"
   },
   "author": "",
   "license": "ISC",
